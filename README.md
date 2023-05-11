@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shubhamshinde
-- 👀 I’m interested in ... Data Science, Python, SQL,Machine Learning.
-- 🌱 I’m currently learning . Data Science
+- 👀 I’m interested in ... Data Analytics, Power BI, SQL, Python,Machine Learning.
+- 🌱 I’m currently learning . Power BI, SQL,Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me on LinkedIn: https://www.linkedin.com/in/shubham-shinde45/ 
 
