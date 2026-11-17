@@ -1,13 +1,13 @@
 <h1 align="center">Hello 👋, I'm Shubham Shinde</h1>
-<h3 align="center">Data Analyst with experience in analyzing data and creating visualizations and dashboards & reports using tools like Power BI, Python, SQL, ETL, Tableau</h3>
+<h3 align="center">Data Analyst with 4 years of experience in analyzing data and creating visualizations and dashboards & reports using tools like Power BI, Python, SQL, ETL, Tableau, PySpark, Databricks, AWS  </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamshinde1&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamshinde1" /> </p>
 
-- 🔭 I’m currently working on **Power BI, SQL, Python, ETL**
+- 🔭 I’m currently working on **Power BI, SQL, Python, Databricks, Tableau, Claude, Cursor, AWS, ETL**
 
-- 🌱 I’m currently learning **Tableau, Machine Learning, AWS, Apache Spark, Hadoop**
+- 🌱 I’m currently learning **AI, Machine Learning, AWS, Apache Spark, Hadoop**
 
-- 👯 I’m looking to collaborate on **Power BI, SQL, Python**
+- 👯 I’m looking to collaborate on **Databricks, AI, Power BI, SQL, Python, PySpark**
 
 - 💬 Ask me about **Data Anlaytics**
 
