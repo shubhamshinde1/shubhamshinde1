@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamshinde1&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamshinde1" /> </p>
 
-- 🔭 I’m currently working on **Power BI, SQL, Python, Databricks, Tableau, Claude, Cursor, AWS, ETL**
+- 🔭 I’m currently working on **SQL, Python, PySpark, Databricks, Tableau, Claude, Cursor, AWS, ETL**
 
 - 🌱 I’m currently learning **AI, Machine Learning, AWS, Apache Spark, Hadoop**
 
-- 👯 I’m looking to collaborate on **Databricks, AI, Power BI, SQL, Python, PySpark**
+- 👯 I’m looking to collaborate on **Databricks, AI, Power BI, Tableau, SQL, Python, PySpark**
 
 - 💬 Ask me about **Data Anlaytics**
 
